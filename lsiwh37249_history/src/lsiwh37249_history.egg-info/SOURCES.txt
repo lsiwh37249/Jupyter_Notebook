@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/lsiwh37249_history/__init__.py
+src/lsiwh37249_history/cli.py
+src/lsiwh37249_history.egg-info/PKG-INFO
+src/lsiwh37249_history.egg-info/SOURCES.txt
+src/lsiwh37249_history.egg-info/dependency_links.txt
+src/lsiwh37249_history.egg-info/entry_points.txt
+src/lsiwh37249_history.egg-info/top_level.txt
